@@ -1,0 +1,3 @@
+dotdict==0.1
+flickrapi==1.4.2
+requests==0.14.2
